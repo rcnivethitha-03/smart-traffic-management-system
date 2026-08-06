@@ -26,6 +26,9 @@ The objective of this project is to reduce traffic congestion by dynamically con
 - Algorithm Design
 
 ---
+## 📄 Project Report
+
+**Report:** [Smart Traffic Management Report](Smart_Traffic_Management_Report.pdf)
 
 ## Project Structure
 
